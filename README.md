@@ -36,9 +36,7 @@
 <h4> Connect with me 🤝: </h4>
 <hr>
 
-<a href="https://www.linkedin.com/in/mohit-chauhan-3a08a92a9/">
-    <img align="left" alt="Mohit Chauhan | LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
-</a>
+
 
 <a href="mailto:mohitchauhan4793@gmail.com">
     <img align="left" alt="Mohit Chauhan | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
